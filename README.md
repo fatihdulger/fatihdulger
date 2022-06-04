@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fatihdulger a solid beginner HTML/css/JS
+- 👋 Hi, I’m @fatihdulger a solid beginner with skills of HTML/CSS/JS.
 - 👀 I’m interested in being a full stack developer. 
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on beginner projects. 
-- 📫 How to reach me: pop me an email or DM on twitter 
+- 📫 How to reach me: pop me an email or DM on twitter. 
 
 <!---
 fatihdulger/fatihdulger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
