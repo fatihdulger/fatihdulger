@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fatihdulger a solid beginner with skills of HTML/CSS/JS.
-- 👀 I’m interested in being a full stack developer. 
-- 🌱 I’m currently learning JavaScript.
+- 👋 Hi, I’m Fatih, a solid beginner with skills of HTML/CSS/JS & MySQL and NoSQL.
+- 👀 I’m interested in becoming a full stack developer. 
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on beginner projects. 
 - 📫 How to reach me: pop me an email or DM on twitter. 
 
