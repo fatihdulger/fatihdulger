@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Fatih, an aspiring candidate to be Full stack developer with skills of HTML, CSS, JavaScript, Python & MySQL and NoSQL .
-- 👀 I’m interested in becoming a full stack developer. 
+- 👋 Hi, I’m Fatih...
+- 👀 I’m an aspiring candidate to be a full stack developer.
+- 🧑‍🎓I have funddamental skills of HTML, CSS, JavaScript, Python & MySQL and NoSQL . 
 - 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on beginner projects. 
 - 📫 How to reach me: pop me an email or DM on twitter. 
