@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fatih...
-- 🧑‍🎓 I have fundamental skills of HTML, CSS, JavaScript, Python & MySQL and NoSQL .
+- 🧑‍🎓 Skills: HTML, CSS, JavaScript, Python & MySQL and NoSQL, Java, Spring Boot, React .
 - 👀 I’m on my professional journey to be a full stack developer.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on beginner projects. 
+- 🌱 I’m currently learning React.
+- 💞️ Collaborating on several projects. 
 - 📩 How to reach me: email, direct message through my webpage or DM on twitter. 
 - ⬆️ My Personal Portfolio www.fatihdulger.com
 
