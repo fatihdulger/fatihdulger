@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatih...
-- 🧑‍🎓 Skills: HTML, CSS, JavaScript, Python & MySQL and NoSQL, Java, Spring Boot, React .
+- 🧑‍🎓 Skills: HTML, CSS, JavaScript, Python & MySQL and NoSQL, Java, Spring Boot, React, C#, .NET, Entity Framework Core.
 - 👀 I’m on my professional journey to be a full stack developer.
 - 🌱 I’m currently learning React.
 - 💞️ Collaborating on several projects. 
